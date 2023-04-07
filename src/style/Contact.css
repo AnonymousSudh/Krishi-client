@@ -1,8 +1,6 @@
 .trial {
   width: 100vw;
   height: 90vh;
-  /* padding-top: 50px; */
-  /* margin-top: ; */
 
 }
 
@@ -12,12 +10,10 @@
   justify-content: center;
   align-items: center;
   background-image: linear-gradient(to right top, #bce3c1, #a8cdac, #94b898, #81a384, #6e8e71, #6a8e6d, #658e6a, #618e66, #69a271, #70b67c, #76cb88, #7ce094);
-  /* border: 1px solid red; */
   font-size: 16px;
-  /* height: 90vh; */
+
   color: #222;
-  /* font-weight: 300; */
-    /* padding-top: 5px; */
+
 }
 
 
@@ -25,9 +21,6 @@
   display: flex;
   width: 55%;
   height: 70vh;
-  /* border: 2px solid green; */
-
-  /* padding-top: px; */
 }
 
 .cleft {
@@ -38,18 +31,14 @@
 
   background-color: rgb(190, 243, 190);
   width: 35vw;
-  /* height: 60vh; */
   border-radius: 30px 2px 2px 30px;
 
 }
 
 .cleft_p {
 
-  /* background-color: #86d98a;  */
-  /* border: 1px solid red; */
- 
 
- margin-bottom: 80px; /* padding-bottom: 40px */
+ margin-bottom: 80px; 
 }
 
 .cright h1 {
@@ -90,21 +79,9 @@
 }
 
 .cleft input[type="submit"] {
-  /* margin-top: 38px;
-   margin-left: 300px;
-   width: 120px;
-   height: 32px;
-   background: #D83665;
-   border: none;
-   border-radius: 20px;
-   color: #FFF;
-   font-weight: 500;
-   text-transform: uppercase;
-   transition: 0.1s ease;
-   cursor: pointer; */
 
   margin-top: 2%;
-  /* margin-left: 43%; */
+
   width: 20%;
   height: 7%;
   background: #16a085;
@@ -138,14 +115,12 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  /* box-sizing: border-box; */
   background: rgb(26, 96, 26);
 
   border-radius: 0 30px 30px 0;
 }
 .crightinfo{
   height: 30vh;
-  /* border: 2px solid red; */
   display: flex;
   flex-direction: column;
 
@@ -163,7 +138,7 @@
 
 
 .hear {
-  /* border: 1px solid rgb(251, 224, 17); */
+ 
   font-size: 3rem;
 }
 
@@ -194,20 +169,14 @@
 
 .cright_box1 {
 
-  /* border: 1px solid red; */
+ 
 color: rgb(154, 231, 154);
 font-size: 2.5rem;
   margin-top: 30%;
 
 }
 
-/* @media screen and(min-width:577px) and (max-width:768px){
 
-  .cleft{
-    flex-direction: row;
-  }
-  
-} */
 
 
 @media screen and (max-width: 768px) {

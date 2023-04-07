@@ -7,7 +7,7 @@
 .first {
   width: 15vw;
   height: 10vh;
-  /* border: 5px solid rgb(210, 15, 15); */
+
   display: flex;
   justify-content: center;
   align-items: center;

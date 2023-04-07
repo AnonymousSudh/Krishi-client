@@ -1,11 +1,9 @@
 .cat_button {
-    /* border:2px solid red;  */
+
     display: flex;
     width: 180px;
     height: 60px;
-
     flex-direction: row;
-
     justify-content: space-between;
 }
 .grain {
@@ -15,7 +13,7 @@
     color: white;
     border:none; 
     border-radius:10px; 
-    /* padding:15px; */
+
     height:60px; 
     width: 180px;
   }
